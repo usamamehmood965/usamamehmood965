@@ -1,12 +1,12 @@
 # Hi 👋, I'm Usama Mehmood
 
-### MERN Stack Developer
+### A budding Typescript developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamamehmood965" alt="usamamehmood965" /></a> </p>
-
-- 🌱 I'm currently learning **Micro-frontend and Backend technologies**
+- 🌱 I'm currently learning **Micro-frontends and Backend technologies**
 
 - 📫 How to reach me **usamamehmood965@gmail.com**
+
+- ⚡ Fun fact **When I'm not coding, you'll probably find me playing console games.**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/14ULONQG5SFZO9HG7CeUEwWtolfJgH5mf/view?usp=drive_link](https://drive.google.com/file/d/14ULONQG5SFZO9HG7CeUEwWtolfJgH5mf/view?usp=drive_link)**
 
