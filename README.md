@@ -2,7 +2,7 @@
 
 ### A budding Typescript developer
 
-- 🌱 I'm currently learning **Micro-frontends and Backend technologies**
+- 🌱 I'm currently learning **Micro-frontends and Microservices**
 
 - 📫 How to reach me **usamamehmood965@gmail.com**
 
